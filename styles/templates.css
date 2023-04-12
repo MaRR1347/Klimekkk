@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+:root {
+    --background-color: #252629;
+    --objects-color: #1a1a1d;
+}
+
+* {
+    color: #FFF;
+    margin: 0;
+}
+
+footer {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 12px;
+    background-color: var(--objects-color);
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
